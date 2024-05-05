@@ -9,7 +9,9 @@ https://github.com/facebookresearch/segment-anything/blob/main/notebooks/predict
 ## Dependencies 
 - Pytorch
 - OpenCV
-- map
+- matplot lib
+- pyTorch
+- numpy
 
 ## Usage
 ```
